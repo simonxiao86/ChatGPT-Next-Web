@@ -13,5 +13,18 @@
     "id": "duckduckgolite",
     "name": "DuckDuckGoLiteSearch",
     "schema": "https://ghp.ci/https://raw.githubusercontent.com/ChatGPTNextWeb/NextChat-Awesome-Plugins/main/plugins/duckduckgolite/openapi.json"
+  },
+  {
+    "id":"codeinterpreterapi",
+    "name":"CodeInterpreter",
+    "schema":"https://ghp.ci/https://raw.githubusercontent.com/ChatGPTNextWeb/NextChat-Awesome-Plugins/main/plugins/codeinterpreterapi/openapi.json"
+  },
+  {
+    "id":"gapier",
+    "name":"Gapier",
+    "authType":"Bearer",
+    "authLocation":"Header",
+    "authToken":"1ead43a6-97fc-4b36-8429-43882ac64da5",
+    "schema":"https://ghp.ci/https://raw.githubusercontent.com/simonxiao86/NextChat-Awesome-Plugins/refs/heads/main/plugins/gapier/openapi.json"
   }
 ]
